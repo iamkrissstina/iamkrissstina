@@ -6,8 +6,13 @@
 
 ## 🤝 Contact Me
 
-- 📬 [@iamkrisssstina](https://t.me/iamkrisssstina)
-- ✉️ osipova.kristina26@yandex.ru
+- <a href="https://t.me/iamkrisssstina" target="_blank">
+    <img src="https://img.icons8.ru/?size=30&id=jZ1z64hEYYLW&format=png&color=000000" alt="Telegram" width="24">
+  </a>&nbsp;tg: @iamkrisssstina
+
+- <a href="mailto:osipova.kristina26@yandex.ru">
+    <img src="https://img.icons8.ru/?size=30&id=12580&format=png&color=000000" alt="Email" width="24">
+  </a>&nbsp;osipova.kristina26@yandex.ru
 
 &nbsp;
 
